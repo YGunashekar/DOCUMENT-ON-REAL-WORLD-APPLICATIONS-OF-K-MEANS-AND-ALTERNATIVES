@@ -1,2 +1,2 @@
-![]()
+![](https://github.com/YGunashekar/DOCUMENT-ON-REAL-WORLD-APPLICATIONS-OF-K-MEANS-AND-ALTERNATIVES/blob/7d8d5473d32cd99d1d796beaa0079cb519341c72/Screenshot%202026-03-09%20122319.png)
 ![]()
